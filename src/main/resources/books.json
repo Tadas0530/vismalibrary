@@ -1,0 +1,37 @@
+[ {
+  "name" : "Java programming",
+  "author" : "Oracle",
+  "category" : "Programming",
+  "language" : "English",
+  "publicationDate" : "2020-08-23T00:00:00.000+00:00",
+  "isbn" : "0243926",
+  "guid" : "3",
+  "taken" : false
+}, {
+  "name" : "Python programming",
+  "author" : "Arnas",
+  "category" : "Programming",
+  "language" : "Lithuanian",
+  "publicationDate" : "2020-08-23T00:00:00.000+00:00",
+  "isbn" : "0264926",
+  "guid" : "4",
+  "taken" : false
+}, {
+  "name" : "Discrete Mathematics",
+  "author" : "Some Teacher",
+  "category" : "Mathemathics",
+  "language" : "English",
+  "publicationDate" : "2020-08-23T00:00:00.000+00:00",
+  "isbn" : "0243996",
+  "guid" : "1",
+  "taken" : true
+},{
+  "name" : "Database fundamentals",
+  "author" : "Jurij Tekutov",
+  "category" : "Databases",
+  "language" : "Latvian",
+  "publicationDate" : 1598140800000,
+  "isbn" : "56243926",
+  "guid" : "2",
+  "taken" : true
+} ]
